@@ -21,3 +21,5 @@ for (var h = 0, tbody; tbody = tablebody[h]; h++) {
     } 
   }
 }
+
+alert('my public plugin installed');
